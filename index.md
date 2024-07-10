@@ -30,7 +30,7 @@ Scroll down to take a look at what I've been up to...
 |:---:|:-------------------------|
 |<a href="https://www.cdl.lk/" class="image fit" target="_blank"><img src="assets/img/dockyard_logo.jpg" width="100"></a> | **Colombo Dockyard PLC** <br/> Engineering Intern <br/> CDPLC Training Division <br/> _February 2019 to May 2019_|
 
-<div style="text-align: right"> <p class="view"><a href="https://rajinthss.github.io/work_experience.html"> Read More >> </a></p> </div>
+<div style="text-align: right"> <p class="view"><a href="https://rajinth-shanthar.github.io/work_experience.html"> Read More >> </a></p> </div>
 
 # Research Projects
 
@@ -42,7 +42,7 @@ Scroll down to take a look at what I've been up to...
 |:---:|
 |<span style="font-weight:normal">**Atlas: A Wearable Posture Monitoring  and Correcting Device**<br/> Third year group project supervised by <a href="https://www.linkedin.com/in/lalithwick/?originalSubdomain=lk" target="_blank"> Dr. L.N. Wickramarathna </a> <br/> _January 2020 to October 2020_|
 
-<div style="text-align: right"> <p class="view"><a href="https://rajinthss.github.io/projects.html"> Read More >> </a></p> </div>
+<div style="text-align: right"> <p class="view"><a href="https://rajinth-shanthar.github.io/projects.html"> Read More >> </a></p> </div>
 
 # Publications
 
@@ -52,14 +52,14 @@ Scroll down to take a look at what I've been up to...
 |:---:|
 |<span style="font-weight:normal">**Design and Realization of a Wearable Posture Correcting Device**<br/> S. Rajinth, G.H.M.C.M.B. Herath, H.M. Gammulle, L.N. Wickramarathna <br/> IEEE EMBS International Student Conference (ISC 2021) <br/> Moratuwa, Sri Lanka, Feb. 2021  <br/>_Presented and Published in Conference Proceedings_|
 
-<div style="text-align: right"> <p class="view"><a href="https://rajinthss.github.io/projects.html"> Read More >> </a></p> </div>
+<div style="text-align: right"> <p class="view"><a href="https://rajinth-shanthar.github.io/projects.html"> Read More >> </a></p> </div>
 
 <!--
 # Beyond Academics
 
 A display of all the extra things I found myself doing over the years..
 
-<div style="text-align: right"> <p class="view"><a href="https://rajinthss.github.io/projects.html"> Read More >> </a></p> </div>
+<div style="text-align: right"> <p class="view"><a href="https://rajinth-shanthar.github.io/projects.html"> Read More >> </a></p> </div>
 
 
 <!--
